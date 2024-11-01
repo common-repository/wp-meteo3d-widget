@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Zonnig"></condition>
+<condition name="Deels Zonnig"></condition>
+<condition name="Deels bewolkt"></condition>
+<condition name="Meest bewolkt"></condition>
+<condition name="Bewolkt"></condition>
+<condition name="Regen"></condition>
+<condition name="Meest bewolkt met onweersbuinen"></condition>
+<condition name="Onweer"></condition>
+<condition name="Deels bewolkt met onweer"></condition>
+<condition name="Deels bewolkt met onweer"></condition>
+<condition name="Deels bewolkt met buien"></condition>
+<condition name="Sneeuw"></condition>
+<condition name="Mist"></condition>
+<condition name="Nevel"></condition>
+</conditions>
+

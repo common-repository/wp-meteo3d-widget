@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Sereno"></condition>
+<condition name="Parzialmente Nuvoloso"></condition>
+<condition name="Parzialmente Nuvoloso"></condition>
+<condition name="Nuvoloso"></condition>
+<condition name="Molto Nuvoloso"></condition>
+<condition name="Pioggia"></condition>
+<condition name="Tuoni (Senza Pioggia)"></condition>
+<condition name="Pioggia con Tuoni"></condition>
+<condition name="Parzialmente Nuvoloso con Tuoni"></condition>
+<condition name="Parzialmente Nuvoloso con Pioggia e Tuoni"></condition>
+<condition name="Parzialmente Nuvoloso con Pioggia"></condition>
+<condition name="Neve"></condition>
+<condition name="Nebbia"></condition>
+<condition name="Foschia"></condition>
+</conditions>
+

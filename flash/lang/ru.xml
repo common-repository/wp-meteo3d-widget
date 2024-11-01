@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Безоблачно"></condition>
+<condition name="Ясно"></condition>
+<condition name="Местами облачно"></condition>
+<condition name="Частичная облачность"></condition>
+<condition name="Облачно"></condition>
+<condition name="Дождь"></condition>
+<condition name="Малооблачно , ливни"></condition>
+<condition name="Грозы"></condition>
+<condition name="Облачно, гроза"></condition>
+<condition name="Облачно, гроза"></condition>
+<condition name="Малооблачно, осадки"></condition>
+<condition name="Снег"></condition>
+<condition name="Туман"></condition>
+<condition name="Солнечно"></condition>
+</conditions>
+

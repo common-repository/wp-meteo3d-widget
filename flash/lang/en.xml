@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Clear Skies"></condition>
+<condition name="Partly Sunny"></condition>
+<condition name="Partly Cloudy"></condition>
+<condition name="Mostly Cloudy"></condition>
+<condition name="Cloudy"></condition>
+<condition name="Rain"></condition>
+<condition name="Thunder (Without Rain)"></condition>
+<condition name="Rain With Thunder"></condition>
+<condition name="Partly Cloudy And Thunder"></condition>
+<condition name="Partly Cloudy And Rain With Thunder"></condition>
+<condition name="Partly Cloudy And Rain"></condition>
+<condition name="Snow"></condition>
+<condition name="Fog"></condition>
+<condition name="Haze"></condition>
+</conditions>
+

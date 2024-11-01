@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Soleado"></condition>
+<condition name="Parcialmente Soleado"></condition>
+<condition name="Parcialmente Nuboso"></condition>
+<condition name="Más nubes que claros"></condition>
+<condition name="Cubierto"></condition>
+<condition name="Lluvia"></condition>
+<condition name="Principalmente Nuboso y Tormentas"></condition>
+<condition name="Tormentas"></condition>
+<condition name="Parcialmente Nuboso con Chubascos"></condition>
+<condition name="Parcialmente Nuboso con Chubascos"></condition>
+<condition name="Parcialmente Cubierto con Chubascos"></condition>
+<condition name="Nieve"></condition>
+<condition name="Niebla"></condition>
+<condition name="Neblina"></condition>
+</conditions>
+

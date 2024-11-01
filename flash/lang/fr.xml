@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Ensoleillé"></condition>
+<condition name="Partiellement ensoleillé"></condition>
+<condition name="En partie clair"></condition>
+<condition name="Surtout nuageux"></condition>
+<condition name="Nuageux"></condition>
+<condition name="Pluie"></condition>
+<condition name="Nuageux avec des averses orageuses"></condition>
+<condition name="Orages"></condition>
+<condition name="Partiellement nuageux avec des orages"></condition>
+<condition name="Partiellement nuageux avec des orages"></condition>
+<condition name="Partiellement nuageux avec averses"></condition>
+<condition name="Neige"></condition>
+<condition name="Brouillard"></condition>
+<condition name="Voilé"></condition>
+</conditions>
+

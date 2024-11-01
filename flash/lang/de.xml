@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Wolkenlos"></condition>
+<condition name="Heiter bis wolkig"></condition>
+<condition name="Wolkig"></condition>
+<condition name="Bewölkt"></condition>
+<condition name="Stark bewölkt"></condition>
+<condition name="Regen"></condition>
+<condition name="Bewölkt mit Gewitterschauern"></condition>
+<condition name="Gewitter"></condition>
+<condition name="Wolkig mit Gewitterschauern"></condition>
+<condition name="Wolkig mit Gewitterschauern"></condition>
+<condition name="Wolkig mit Regenschauern"></condition>
+<condition name="Schneefall"></condition>
+<condition name="Nebel"></condition>
+<condition name="Dunstiger Sonnenschein"></condition>
+</conditions>
+

@@ -1,0 +1,18 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="napos"></condition>
+<condition name="Részben napos"></condition>
+<condition name="Részben felhős"></condition>
+<condition name="Főleg felhős"></condition>
+<condition name="Felhős"></condition>
+<condition name="Eső"></condition>
+<condition name="Főleg felhős, zivatar, villámlás"></condition>
+<condition name="Vihar, villámlás"></condition>
+<condition name="Részben felhős, vihar, villámlás"></condition>
+<condition name="Részben felhős, vihar, villámlás"></condition>
+<condition name="Részben felhős, záporokkal"></condition>
+<condition name="Havazás"></condition>
+<condition name="Köd"></condition>
+<condition name="Fátyolos napsütés"></condition>
+</conditions>
+

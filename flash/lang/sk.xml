@@ -1,0 +1,17 @@
+﻿<conditions>
+<condition name="N/A"></condition>
+<condition name="Jasno"></condition>
+<condition name="Polojasno"></condition>
+<condition name="Čiastočne zamračené"></condition>
+<condition name="Prevažne zamračené"></condition>
+<condition name="Zamračené"></condition>
+<condition name="Dážď"></condition>
+<condition name="Prevažne zamračené s búrkami"></condition>
+<condition name="Búrky"></condition>
+<condition name="Čiastočne zamračené s búrkami"></condition>
+<condition name="Čiastočne zamračené s búrkami"></condition>
+<condition name="Čiastočne zamračené s prehánkami"></condition>
+<condition name="Sneženie"></condition>
+<condition name="Hmla"></condition>
+<condition name="Hmlisto"></condition>
+</conditions>
